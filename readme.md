@@ -1,4 +1,11 @@
 <a
+href="http://redirect.audiocodes.com/install/index.html"
+target="_blank">
+  <img
+src="https://img.shields.io/badge/sbc_tools-WEB-blue?style=for-the-badge" />
+</a>
+<br>
+<a
 href="https://techdocs.audiocodes.com/session-border-controller-sbc/mediant-software-sbc/user-manual/version-740/Content/UM/Welcome-UM.htm"
 target="_blank">
   <img
