@@ -53,3 +53,10 @@ target="_blank">
   <img
 src="https://img.shields.io/badge/connecting_sbc_to_microsoft_teams_direct_routing_enterprise_model_configuration_note-PDF-blue?style=for-the-badge" />
 </a>
+<br>
+<a
+href="https://docs.google.com/presentation/d/1YMPG12MJDiWvyj5jUOkr3UKQqFlW59Gu/edit?usp=sharing&ouid=102947080301438562458&rtpof=true&sd=true"
+target="_blank">
+  <img
+src="https://img.shields.io/badge/OXE+GD4+SBC+SW_with_HA_connection_setup_ed07-PPT-blue?style=for-the-badge" />
+</a>
