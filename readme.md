@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/sbc_user_manuel_ver_74-WEB-blue?style=for-the-
 <br>
 <a
 href="https://techdocs.audiocodes.com/session-border-controller-sbc/sip-manipulation/version-760/Content/SIPManipulation/Welcome-MM.htm?tocpath=_____1"
-target="_Blank">
+target="_blank">
   <img
 src="https://img.shields.io/badge/sip_manipulation_ver_76-WEB-blue?style=for-the-badge" />
 </a>
