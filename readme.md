@@ -1,4 +1,10 @@
-
+<a
+href="https://techdocs.audiocodes.com/session-border-controller-sbc/mediant-software-sbc/user-manual/version-740/Content/UM/Welcome-UM.htm"
+target="_blank">
+  <img
+src="https://img.shields.io/badge/SBC_user_manuel_ver_74-WEB-blue?stype=-for-the-badge" />
+</a>
+<br>
 <a
 href="https://drive.google.com/file/d/1HzvvCvUJTCUDisXo0cRvnip0tk-0xB7N/view?usp=sharing"
 target="_blank">
