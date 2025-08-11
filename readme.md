@@ -2,7 +2,7 @@
 href="https://techdocs.audiocodes.com/session-border-controller-sbc/mediant-software-sbc/user-manual/version-740/Content/UM/Welcome-UM.htm"
 target="_blank">
   <img
-src="https://img.shields.io/badge/SBC_user_manuel_ver_74-WEB-blue?stype=-for-the-badge" />
+src="https://img.shields.io/badge/SBC_user_manuel_ver_74-WEB-blue?style=for-the-badge" />
 </a>
 <br>
 <a
