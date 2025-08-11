@@ -9,7 +9,7 @@ src="https://img.shields.io/badge/SBC_user_manuel_ver_74-WEB-blue?style=for-the-
 href="https://techdocs.audiocodes.com/session-border-controller-sbc/sip-manipulation/version-760/Content/SIPManipulation/Welcome-MM.htm?tocpath=_____1"
 target="_Blank">
   <img
-src="https://img.shields.io/badge/sip_manipulation_ver_76-WEB-blue?style=fo-the-badge" />
+src="https://img.shields.io/badge/sip_manipulation_ver_76-WEB-blue?style=for-the-badge" />
 </a>
 <br>
 <a
