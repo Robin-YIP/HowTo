@@ -41,6 +41,13 @@ src="https://img.shields.io/badge/sbc_with_zoom_phone_carrier_peering_configurat
 </a>
 <br>
 <a
+href="https://drive.google.com/file/d/1UgWdO3Y0xi4D0X1fRqi3mg4x0Zg_Mq05/view?usp=sharing"
+target="_blank">
+  <img
+src="https://img.shields.io/badge/mediant_800c_sbc_with_zoom_phone_local_survivability_deployment_guide-PDF-blue?style=for-the-badge" />
+</a>
+<br>
+<a
 href="https://drive.google.com/file/d/12Ifo3SIR2LpH6s8nb7HeZm2kVDQRT3Xn/view?usp=sharing"
 target="_blank">
   <img
